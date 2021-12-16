@@ -76,6 +76,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ultimate_aurora_blade"
+    },
+    {
+      "name": "Siuu",
+      "type": "livingentity",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "siuu"
     }
   ],
   "variable_elements": [],
@@ -83,6 +92,8 @@
   "language_map": {
     "en_us": {
       "block.poles_krasse_erfindung_hehexd.luckyblockblue": "Luckyblockblue",
+      "item.poles_krasse_erfindung_hehexd.siuu_spawn_egg": "Siuuuuuu Spawn Egg",
+      "entity.poles_krasse_erfindung_hehexd.siuu": "Siuuuuuu",
       "item.poles_krasse_erfindung_hehexd.ultimate_aurora_blade": "Ultimate Aurora Blade"
     }
   },
