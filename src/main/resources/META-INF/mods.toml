@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="poles_krasse_erfindung_hehexd"
+version="1.0.0"
+displayName="Pole's krasse Erfindung hehexD"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="kidslab, MCreator"
+
+[[dependencies.poles_krasse_erfindung_hehexd]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

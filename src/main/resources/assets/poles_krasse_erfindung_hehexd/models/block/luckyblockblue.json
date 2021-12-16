@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "poles_krasse_erfindung_hehexd:blocks/luckyblockblue",
+    "up": "poles_krasse_erfindung_hehexd:blocks/luckyblockblue",
+    "north": "poles_krasse_erfindung_hehexd:blocks/luckyblockblue",
+    "east": "poles_krasse_erfindung_hehexd:blocks/luckyblockblue",
+    "south": "poles_krasse_erfindung_hehexd:blocks/luckyblockblue",
+    "west": "poles_krasse_erfindung_hehexd:blocks/luckyblockblue",
+    "particle": "poles_krasse_erfindung_hehexd:blocks/luckyblockblue"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ultimateaurorablade",
+    "customModelName": "Normal",
+    "name": "Ultimate Aurora Blade",
+    "specialInfo": [
+      "Is it strong???"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.9000000000000001,
+    "enchantability": 2,
+    "damageVsEntity": 12.799999999999999,
+    "usageCount": 5432,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "Schwertpower"
+    }
+  }
+}
