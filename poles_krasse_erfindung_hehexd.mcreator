@@ -152,6 +152,44 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gomme_mode"
+    },
+    {
+      "name": "Awaaay",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "awaaay",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PPPPigggGE",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ppp_piggg_ge"
     }
   ],
   "variable_elements": [],
@@ -160,6 +198,7 @@
     "en_us": {
       "block.poles_krasse_erfindung_hehexd.luckyblockblue": "Luckyblockblue",
       "item.poles_krasse_erfindung_hehexd.one_hit_siuu": "One Hit Siuu",
+      "item.poles_krasse_erfindung_hehexd.ppp_piggg_ge": "PPP Piggg GE",
       "item.poles_krasse_erfindung_hehexd.ultimate_aurora_blade": "Ultimate Aurora Blade"
     }
   },
