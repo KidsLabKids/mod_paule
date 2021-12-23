@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "poles_krasse_erfindung_hehexd:items/onehitsiuu"
+  }
+}

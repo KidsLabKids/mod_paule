@@ -78,13 +78,80 @@
       "registry_name": "ultimate_aurora_blade"
     },
     {
-      "name": "Siuu",
-      "type": "livingentity",
-      "sortid": 4,
+      "name": "Lightning",
+      "type": "procedure",
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "siuu"
+      "registry_name": "lightning",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OneHitSiuu",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "one_hit_siuu"
+    },
+    {
+      "name": "Gommemode",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gommemode",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GommeMode",
+      "type": "command",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gomme_mode"
     }
   ],
   "variable_elements": [],
@@ -92,8 +159,7 @@
   "language_map": {
     "en_us": {
       "block.poles_krasse_erfindung_hehexd.luckyblockblue": "Luckyblockblue",
-      "item.poles_krasse_erfindung_hehexd.siuu_spawn_egg": "Siuuuuuu Spawn Egg",
-      "entity.poles_krasse_erfindung_hehexd.siuu": "Siuuuuuu",
+      "item.poles_krasse_erfindung_hehexd.one_hit_siuu": "One Hit Siuu",
       "item.poles_krasse_erfindung_hehexd.ultimate_aurora_blade": "Ultimate Aurora Blade"
     }
   },
